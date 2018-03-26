@@ -1,4 +1,4 @@
-#install.packages("plotly", dependencies = TRUE)
+install.packages("plotly", dependencies = TRUE)
 Sys.setenv("plotly_username"="fernando.barbeiro")
 Sys.setenv("plotly_api_key"="6vP51eZN46dDUq6IbvVp")
 
