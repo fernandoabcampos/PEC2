@@ -53,5 +53,5 @@ p <- plot_geo(countries_cities_with_lat_long, locationmode = 'world', sizes = c(
 
 # Create a shareable link to your chart
 # Set up API credentials: https://plot.ly/r/getting-started
-chart_link = api_create(p, filename="scattergeo-bubble")
-chart_link
+chart_link2 = api_create(p, filename="scattergeo-bubble")
+chart_link2
